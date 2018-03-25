@@ -4,7 +4,7 @@ A stepper with a label in the middle. Tap the buttons to increase or decrease th
 
 **Screenshot**
 
-![alt text](https://github.com/ChandrikaRaoC/CRCStepper/blob/master/StepperImage.png)
+![alt text](https://github.com/ChandrikaRaoC/CRCStepper/blob/master/ExampleImage.png)
 
 **Usage**
 
